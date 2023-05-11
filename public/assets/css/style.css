@@ -1,0 +1,70 @@
+.azul{
+    background-image: url(../imgs/stacked-waves-haikei.svg);
+    justify-content: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.playerone{
+    background-color: red;
+    justify-content: center;
+    align-items: flex-end;
+    display: flex;
+    height: 200px;
+    gap: 30px;
+}
+
+.playertwo{
+    background-color: lightblue;
+    justify-content: center;
+    align-items: flex-end;
+    filter: blur(0px);
+    display: flex;
+    height: 200px;
+    gap: 30px;
+}
+
+.versus{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 40px;
+}
+
+.centralizada{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botaocentro{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.btn{
+    width: 150px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.paibotton{
+    background-color: transparent;
+    border: none;
+}
+
+img{
+    height: 100px;
+}
+
+.bot-2{
+    filter: opacity(45%);
+}
+
+
+#texto{
+  font-size: 50px;  
+}
