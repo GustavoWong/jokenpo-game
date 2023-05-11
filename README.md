@@ -1,8 +1,9 @@
 <div align="center">
 <h1> JOKENPÔ GAME </h1>
 
+<h2>Languages ​​and Tools</h2>
+
 > ~
-> <h2>Languages ​​and Tools</h2>
 > <br>
 > <p>
 > <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
